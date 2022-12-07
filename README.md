@@ -1,17 +1,23 @@
-# projeto_final
+# Projeto Gerenciamento de Lista de Espera 
 
-A new Flutter project.
+<img src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
-## Getting Started
+<p>Projeto Desenvolvido em grupo para colocar em prática as técnicas aprendida em Programação de Dispositivos Móveis II, referente a grade curricular do Colégio Técnico de Campinas - Desenvolvimento de Sistemas.</p>
+<p>Foi ultilizados alguns coneceitos, tais como consumo de api na nuvem(GET, POST, DELETE) e gerenciamento de lista de espera.</p>
 
-This project is a starting point for a Flutter application.
+## Desenvolvedores:
 
-A few resources to get you started if this is your first Flutter project:
+* **Diogo Rodrigues** </br>
+<a href = "https://github.com/diogoramosr"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:contatoworklog@gmail.com"><img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href= "https://www.linkedin.com/in/diogorodriguesr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://www.instagram.com/diogoramosro_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* **Gabriel Perozim** </br>
+<a href = "https://github.com/gabrielfxz"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:gabrielperozim7@gmail.com"><img src="https://img.shields.io/badge/Gmail-B22222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href= "https://www.linkedin.com/in/gabriel-perozim-749729226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://www.instagram.com/gabriell999x/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# projetoFinalFlutter
+---
+
